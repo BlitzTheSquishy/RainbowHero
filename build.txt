@@ -1,0 +1,4 @@
+author = Shorts
+version = 0.1
+displayName = The Rainbow Hero
+homepage = https://forums.terraria.org/index.php?threads/the-rainbow-hero.69401/

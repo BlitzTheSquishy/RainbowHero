@@ -1,0 +1,17 @@
+This mod adds items that are coloured rainbow eventually they will be animated but not just yet all items will say they are expet but they arn't I only did it that way to get the rainbow text
+
+Version 0.0.0.1
+ -adds The Rainbow Blade
+
+
+To Be added
+ -3 Ores
+ -A Bow
+ -A Short Sword
+ -A Summon
+ -A Staff
+ -A Boss
+ -Fix for the Hardmode ore counterparts
+ -A Pickaxe
+
+If you want to suggest something to me email me at bbobbit64@gmail.com
